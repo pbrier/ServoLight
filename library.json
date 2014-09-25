@@ -1,0 +1,10 @@
+{
+  "name": "MSP430-Energia-ServoLight",
+  "keywords": "motor, servo, stepper",
+  "description": "Lightweight servo library for Energia (MSP430 Launchpad)",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/pbrier/ServoLight.git"
+  }
+}
